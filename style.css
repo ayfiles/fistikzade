@@ -612,6 +612,10 @@ section {
 #qualitaet {
   padding: var(--section-padding);
   position: relative;
+  background-image: linear-gradient(rgba(58, 42, 26, 0.85), rgba(58, 42, 26, 0.85)), url("web assets/quality bg.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .quality-content {
